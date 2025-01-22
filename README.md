@@ -2,8 +2,9 @@
 
 Un proyecto simple en JavaScript que permite agregar nombres a una lista y seleccionar aleatoriamente un "amigo secreto". Ideal para sorteos de grupos pequeños.
 
-## 📸 Capturas de Pantalla
-<img src="../assets/capturapantalla.JPG" alt="captura de pantalla principal">
+## 📸 Captura de Pantalla
+
+![Captura de Pantalla](./assets/capturapantalla.JPG)
 
 ## 🚀 Funcionalidades
 
@@ -35,4 +36,10 @@ Para ejecutar este proyecto, solo necesitas un navegador como:
 ├── style.css
 ├── README.md
 └── assets/
-    ├── pantalla-principal.png
+    └── capturapantalla.JPG
+
+## 👤 Autor
+
+**Cristina Seijas**
+
+
