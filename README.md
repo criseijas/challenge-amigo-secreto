@@ -37,8 +37,9 @@ Para ejecutar este proyecto, solo necesitas un navegador como:
 ├── README.md
 └── assets/
     └── capturapantalla.JPG
+```
 
-## 👤 Autor
+## 👩 Autor
 
 **Cristina Seijas**
 
