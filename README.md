@@ -1,7 +1,9 @@
 # 🎉 Sortear Amigo
 
 Un proyecto simple en JavaScript que permite agregar nombres a una lista y seleccionar aleatoriamente un "amigo secreto". Ideal para sorteos de grupos pequeños.
-![Pantalla Principal](./assets/capturapantalla.jpg)
+
+## 📸 Capturas de Pantalla
+<img src="../challenge-amigo-secreto/assets/capturapantalla.JPG" alt="captura de pantalla principal">
 
 ## 🚀 Funcionalidades
 
