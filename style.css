@@ -160,3 +160,30 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+@media (max-width: 800px) {
+
+    .header-banner img {
+        display: none;
+    }
+}
+
+@media (max-width: 350px) {
+
+    .main-title {
+        font-size: 40px;
+    }
+
+    .section-title {
+        font-size: 30px;
+    }
+
+    .button-container {
+        width: 260px;
+    }
+
+    .button-draw{
+        font-size: 15px;
+    }
+    
+}

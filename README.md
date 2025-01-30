@@ -12,6 +12,7 @@ Un proyecto simple en JavaScript que permite agregar nombres a una lista y selec
 - **Mostrar lista:** Visualiza los amigos agregados en tiempo real.
 - **Sortear amigo secreto:** Selecciona aleatoriamente un amigo de la lista.
 - **Evitar duplicados:** Actualiza la lista correctamente para evitar nombres repetidos.
+- **Diseño responsive** para que funcione en dispositivos móviles y escritorio.
 
 ## 📋 Requisitos
 
